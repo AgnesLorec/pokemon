@@ -5,6 +5,7 @@ ESSAI d'application streamlit - challenge Pokemon WCS
 
 import streamlit as st
 import pandas as pd
+import sklearn
 
 from sklearn.preprocessing import StandardScaler
 
